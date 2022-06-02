@@ -1,0 +1,9 @@
+83/100
+
+	
+Thanks for your submission. Here are some comments to justify your grade and to suggests how to improve your work.
+
+In general, I find your report somehow shallow, in that there are descriptions which are available on the Kaggle challenge page, but there is no real analysis. Take for example section 2 and section 3: this kind of information was already available from the Challenge description, you didn't add anything new! More to the point, you mention you'll use mel spectrograms, but you don't say why, nor what are the implications on the subsequent modeling choice.
+
+Section 4 allows me to see you tried many variants of the baseline, which is good. As a comment, I still think the analytic discourse of your report is not sufficient: why an autoencoder, what is the loss and how is it related to a seemingly binary classification task?
+Kudos for the attempt to use the sequential model from TensorFlow.
